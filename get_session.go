@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Harry-zklcdc/bing-lib/lib/hex"
+	"github.com/kingfer30/bing-lib/lib/hex"
 )
 
 func (a *AuthStruct) getSession() (err error) {

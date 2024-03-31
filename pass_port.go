@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/Harry-zklcdc/bing-lib/lib/hex"
-	"github.com/Harry-zklcdc/bing-lib/lib/request"
+	"github.com/kingfer30/bing-lib/lib/hex"
+	"github.com/kingfer30/bing-lib/lib/request"
 )
 
 func (a *AuthStruct) passport() (cookie string, err error) {

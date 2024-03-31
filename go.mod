@@ -5,7 +5,7 @@ go 1.21.4
 toolchain go1.21.6
 
 require (
-	github.com/Harry-zklcdc/bing-lib v1.6.5
+	github.com/kingfer30/bing-lib v1.6.5
 	golang.org/x/net v0.22.0
 )
 

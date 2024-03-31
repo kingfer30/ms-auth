@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Harry-zklcdc/bing-lib/lib/request"
+	"github.com/kingfer30/bing-lib/lib/request"
 	"golang.org/x/net/html"
 )
 
